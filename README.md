@@ -2,4 +2,3 @@ Implementation of intra-modal image registration using Osorio et al (2007) *Non-
 
 ![results](https://github.com/jeffreycychiu/CT-Image-Registration-Fourier/blob/master/3Lungs.png)
 
-![data](https://github.com/jeffreycychiu/CT-Image-Registration-Fourier/blob/master/bargraphs.png)
